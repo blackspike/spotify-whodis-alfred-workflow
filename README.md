@@ -8,7 +8,7 @@ A simple [Alfred workflow](https://www.alfredapp.com/workflows/) to show the cur
 * [Alfred PowerPack](https://www.alfredapp.com/powerpack/) - 💰
 
 ## Download and Install
-1. Download latest version (1.0.0) here: [WhoDis.alfredworkflow](https://github.com/spotify-whodis-alfred-workflow/releases/latest)
+1. Download latest version (1.0.0) here: [WhoDis.alfredworkflow](https://github.com/blackspike/spotify-whodis-alfred-workflow/releases/latest)
 2. Double click the `WhoDis.alfredworkflow` file and it will install 
 
 ## Preview
